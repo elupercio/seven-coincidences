@@ -1,0 +1,51 @@
+{
+  "spinor_input": "tau_exact_0.json",
+  "norm_before_normalization": 32,
+  "M24_lift_invariance": true,
+  "Majorana_reality_phase": "i",
+  "code_dimension": 12,
+  "weight_enumerator": {
+    "0": 1,
+    "8": 759,
+    "12": 2576,
+    "16": 759,
+    "24": 1
+  },
+  "degree2_degree4_constraints": 10902,
+  "marked_orbit_pairing": "basis_data.json",
+  "Krylov_Gram_rank": 10,
+  "minimal_polynomial_8K": "x*(x - 208)*(x - 168)*(x - 56)*(x - 16)*(x - 8)*(x + 32)*(x + 120)*(x + 192)*(x + 232)",
+  "K_charge_spectrum_discovered": [
+    -29,
+    -24,
+    -15,
+    -4,
+    0,
+    1,
+    2,
+    7,
+    21,
+    26
+  ],
+  "normalized_projection_norms": [
+    "3/32",
+    "3/32",
+    "1/32",
+    "1/8",
+    "1/32",
+    "1/8",
+    "5/32",
+    "5/32",
+    "3/32",
+    "3/32"
+  ],
+  "charge4_pairs": [
+    [
+      2,
+      2
+    ]
+  ],
+  "charge2_physical_norm_squared": "5/4",
+  "checks_are_exact": true,
+  "native_operator_scope": "projective small-sector theorem after stated topological twist; not full 3003"
+}

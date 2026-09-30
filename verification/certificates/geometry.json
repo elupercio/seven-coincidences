@@ -1,0 +1,194 @@
+{
+  "L_3003": {
+    "0": 1,
+    "1": 8,
+    "2": 8,
+    "3": 14,
+    "4": 13,
+    "5": 19,
+    "6": 16,
+    "7": 18,
+    "8": 15,
+    "9": 16,
+    "10": 13,
+    "11": 12,
+    "12": 8,
+    "13": 8,
+    "14": 5,
+    "15": 5,
+    "16": 2,
+    "17": 2,
+    "18": 1,
+    "19": 1
+  },
+  "R_3003": {
+    "0": 14,
+    "1": 48,
+    "2": 60,
+    "3": 72,
+    "4": 61,
+    "5": 53,
+    "6": 32,
+    "7": 20,
+    "8": 8,
+    "9": 3
+  },
+  "common_reduction_3003": {
+    "0": 46,
+    "1": 103,
+    "2": 96,
+    "3": 103,
+    "4": 96,
+    "5": 53
+  },
+  "common_reduction_210": {
+    "0": 5,
+    "1": 7,
+    "2": 6,
+    "3": 7,
+    "4": 8,
+    "5": 3
+  },
+  "delta_determinant": "298023223876953125",
+  "low_divisor_sequences": [
+    {
+      "r": 0,
+      "restriction_rank": 1,
+      "residue_rank": 11
+    },
+    {
+      "r": 1,
+      "restriction_rank": 3,
+      "residue_rank": 9
+    },
+    {
+      "r": 2,
+      "restriction_rank": 5,
+      "residue_rank": 7
+    },
+    {
+      "r": 3,
+      "restriction_rank": 7,
+      "residue_rank": 5
+    },
+    {
+      "r": 4,
+      "restriction_rank": 9,
+      "residue_rank": 3
+    },
+    {
+      "r": 5,
+      "restriction_rank": 11,
+      "residue_rank": 1
+    }
+  ],
+  "Klein_F_generator_invariance": "exact over Q(sqrt5); diagonal 5-fold invariance follows from monomial weights",
+  "archived_residue_maps_independent_checks": [
+    {
+      "j": 6,
+      "rank": 13,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 7,
+      "rank": 15,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 8,
+      "rank": 17,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 9,
+      "rank": 19,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 10,
+      "rank": 21,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 11,
+      "rank": 23,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 12,
+      "rank": 25,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 13,
+      "rank": 27,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 14,
+      "rank": 29,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 15,
+      "rank": 31,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 16,
+      "rank": 33,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 17,
+      "rank": 35,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 18,
+      "rank": 37,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    },
+    {
+      "j": 19,
+      "rank": 39,
+      "two_generator_equivariance": "exact",
+      "field": "Q(sqrt5), fifth-root weight congruences"
+    }
+  ],
+  "Klein_operator_charpoly": "(lambda - 10)**3*(lambda - 3)**5*(lambda + 15)**3",
+  "transvectant20_det": "63643933420767819647612917638943297440035298866809879660060521985342630663263387418347124329431104429029121924672942367619526689772484078041408113155841075135381504000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "transvectant20_factorization": {
+    "2": 262,
+    "3": 125,
+    "5": 75,
+    "7": 32,
+    "11": 20
+  },
+  "transvectant20_basis_convention": {
+    "current": "ascending X powers",
+    "previous": "descending X powers",
+    "sign_of_change": -1,
+    "previous_convention_determinant": "-63643933420767819647612917638943297440035298866809879660060521985342630663263387418347124329431104429029121924672942367619526689772484078041408113155841075135381504000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "cubic_geometry": {
+    "T8_rank": 5,
+    "T6_rank": 4,
+    "F8_T6_zero": true,
+    "T6_on_kernel_T8_rank": 4
+  },
+  "restriction_polynomial": "t*(t - 3)*(t + 1)*(t**2 - t - 1)"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Seven Coincidences and Sixty Symmetries",
+  "version": "MI-S11-editorial",
+  "authors": [
+    "Ernesto Lupercio",
+    "Evgeniya Shaydurova"
+  ],
+  "manuscripts": {
+    "article": {
+      "pdf": "Seven_Coincidences_and_Sixty_Symmetries_Intelligencer.pdf",
+      "tex": "Seven_Coincidences_and_Sixty_Symmetries_Intelligencer.tex",
+      "pages": 22
+    },
+    "companion": {
+      "pdf": "Proof_Companion.pdf",
+      "tex": "Proof_Companion.tex",
+      "pages": 37
+    }
+  },
+  "figures_directory": "figures/",
+  "figure_sources": "figures/source/",
+  "verification_directory": "verification/",
+  "verification_command": "python run_all.py --all-math",
+  "mathematical_program_count": 16
+}

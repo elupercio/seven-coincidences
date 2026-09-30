@@ -1,0 +1,403 @@
+{
+  "status": "PASS",
+  "complete_pair_lists": 102,
+  "subgroups": 59,
+  "linear_characters": 159,
+  "all_159_inductions_equal": true,
+  "all_membership_decisions_equal": true,
+  "candidate_counts_equal": true,
+  "selected_rows": {
+    "120": {
+      "dimensions_degree": [
+        16,
+        10,
+        3
+      ],
+      "U_article": [
+        0,
+        0,
+        2,
+        1
+      ],
+      "V_article": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "common_character": [
+        120,
+        -8,
+        3,
+        0,
+        0
+      ]
+    },
+    "210": {
+      "dimensions_degree": [
+        21,
+        10,
+        4
+      ],
+      "U_article": [
+        3,
+        2,
+        2,
+        0
+      ],
+      "V_article": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "common_character": [
+        210,
+        2,
+        3,
+        0,
+        0
+      ]
+    },
+    "1540": {
+      "dimensions_degree": [
+        56,
+        22,
+        3
+      ],
+      "U_article": [
+        4,
+        5,
+        4,
+        2
+      ],
+      "V_article": [
+        3,
+        2,
+        1,
+        1
+      ],
+      "common_character": [
+        1540,
+        -20,
+        10,
+        0,
+        0
+      ]
+    },
+    "3003": {
+      "dimensions_degree": [
+        78,
+        15,
+        5
+      ],
+      "U_article": [
+        4,
+        4,
+        8,
+        3
+      ],
+      "V_article": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "common_character": [
+        3003,
+        -21,
+        0,
+        3,
+        3
+      ]
+    },
+    "7140": {
+      "dimensions_degree": [
+        120,
+        36,
+        3
+      ],
+      "U_article": [
+        3,
+        9,
+        9,
+        6
+      ],
+      "V_article": [
+        1,
+        1,
+        5,
+        1
+      ],
+      "common_character": [
+        7140,
+        -60,
+        3,
+        0,
+        0
+      ]
+    },
+    "11628": {
+      "dimensions_degree": [
+        153,
+        19,
+        5
+      ],
+      "U_article": [
+        6,
+        9,
+        15,
+        6
+      ],
+      "V_article": [
+        1,
+        0,
+        0,
+        3
+      ],
+      "common_character": [
+        11628,
+        -36,
+        0,
+        3,
+        3
+      ]
+    },
+    "24310": {
+      "dimensions_degree": [
+        221,
+        17,
+        8
+      ],
+      "U_article": [
+        6,
+        16,
+        17,
+        11
+      ],
+      "V_article": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "common_character": [
+        24310,
+        -110,
+        10,
+        0,
+        0
+      ]
+    }
+  },
+  "earlier_valid_alternatives": {
+    "1540": {
+      "article_coordinates": [
+        [
+          0,
+          2,
+          6,
+          3
+        ],
+        [
+          4,
+          2,
+          2,
+          0
+        ]
+      ],
+      "U_character": [
+        [
+          56,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -4,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "V_character": [
+        [
+          22,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "common_character": [
+        [
+          1540,
+          0
+        ],
+        [
+          -28,
+          0
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "24310": {
+      "article_coordinates": [
+        [
+          3,
+          13,
+          20,
+          11
+        ],
+        [
+          2,
+          0,
+          3,
+          0
+        ]
+      ],
+      "U_character": [
+        [
+          221,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          -4,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "V_character": [
+        [
+          17,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "common_character": [
+        [
+          24310,
+          0
+        ],
+        [
+          -110,
+          0
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "all_five_class_values_equal": true,
+  "explicit_actions_checked_on_all_60_elements": true,
+  "klein_reductions_equal": true,
+  "mathieu_right_action_confirmed": true,
+  "all_local_labels_and_citation_keys_resolve": true,
+  "companion_destinations": {
+    "A": "\\section{Finite representations and exterior-power identities}\\label{sec:finite}",
+    "A.1": "\\subsection{Modules and the character criterion}\\label{subsec:A1}",
+    "A.2": "\\subsection{The seven exterior-power identities}\\label{subsec:A2}",
+    "A.3": "\\subsection{The three geometric comparisons}\\label{subsec:A3}",
+    "A.4": "\\subsection{Enumeration over $\\mathbb C$ and $\\mathbb Q$ and the exclusions at $3003$}\\label{subsec:A4}",
+    "A.5": "\\subsection{The face construction and its uniqueness}\\label{subsec:A5}",
+    "A.6": "\\subsection{The orbits of vertex triples}\\label{subsec:A6}",
+    "A.7": "\\subsection{Cubic stabilizer characters}\\label{subsec:A7}",
+    "A.8": "\\subsection{Permutation, signed, and monomial counts}\\label{subsec:A8}",
+    "B": "\\section{Signed orbits and basis matching}\\label{sec:orbits}",
+    "C": "\\section{Obstruction for complex semisimple Lie algebras}\\label{sec:obstruction}",
+    "D": "\\section{Spinorial restrictions and compatible subgroups}\\label{sec:spin}",
+    "D.1": "\\subsection{The two spin identities}\\label{subsec:D1}",
+    "D.2": "\\subsection{The quadratic model and its spin lift}\\label{subsec:D2}",
+    "D.3": "\\subsection{The half-spin representation as a kernel}\\label{subsec:D3}",
+    "D.4": "\\subsection{The principal rotation subgroup and the compatible intersection}\\label{subsec:D4}",
+    "D.5": "\\subsection{Polynomial harmonics: dimension, weights, and irreducibility}\\label{subsec:D5}",
+    "E": "\\section{Arithmetic of the repetitions}\\label{sec:arithmetic}",
+    "E.1": "\\subsection{The elliptic equation and its point additions}\\label{subsec:E1}",
+    "E.2": "\\subsection{The two fifth-order defect identities}\\label{subsec:E2}",
+    "E.3": "\\subsection{The normalized Pell\u2013Fibonacci statement}\\label{subsec:E3}",
+    "F": "\\section{Klein residues and the factored intertwiner}\\label{sec:residues}",
+    "F.1": "\\subsection{The divisor and its linearizations}\\label{subsec:F1}",
+    "F.2": "\\subsection{Division, differentiation, and low-degree residues}\\label{subsec:F2}",
+    "F.3": "\\subsection{The positive reduction and the factored map}\\label{subsec:F3}",
+    "F.4": "\\subsection{The kernel of harmonic restriction}\\label{subsec:F4}",
+    "F.5": "\\subsection{Matrix formulas for the chosen splittings}\\label{subsec:F5}",
+    "F.6": "\\subsection{Polynomial models, local residues, and the elementary exactness proof}\\label{subsec:F6}",
+    "F.7": "\\subsection{Rotation-group models and their restrictions}\\label{subsec:F7}",
+    "G": "\\section{Level-five modular forms and character relations}\\label{sec:modular}",
+    "G.1": "\\subsection{Cusps and weight-two modular forms}\\label{subsec:G1}",
+    "H": "\\section{The Mathieu subgroup and the doubled vertex representation}\\label{sec:conformal}",
+    "H.1": "\\subsection{The marked subgroup and the doubled vertex space}\\label{subsec:H1}",
+    "H.2": "\\subsection{The doubled twelve-point module}",
+    "I": "\\section{Computational supplement and figures}\\label{sec:reproducibility}",
+    "I.1": "\\subsection{Reproducing the finite calculations}\\label{subsec:I1}",
+    "I.2": "\\subsection{The four figures}\\label{subsec:I2}"
+  }
+}

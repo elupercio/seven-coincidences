@@ -1,0 +1,104 @@
+[
+  {
+    "m": 21,
+    "n": 10,
+    "k": 4,
+    "nontrivial_partitions": 41,
+    "pass2": 1,
+    "pass4": 0,
+    "pass6": 0,
+    "fourth_survivors": []
+  },
+  {
+    "m": 56,
+    "n": 22,
+    "k": 3,
+    "nontrivial_partitions": 1001,
+    "pass2": 25,
+    "pass4": 1,
+    "pass6": 0,
+    "fourth_survivors": [
+      {
+        "partition": [
+          7,
+          5,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "S2": "570",
+        "S4": "15522",
+        "S6": "557040"
+      }
+    ]
+  },
+  {
+    "m": 78,
+    "n": 14,
+    "k": 6,
+    "nontrivial_partitions": 134,
+    "pass2": 5,
+    "pass4": 0,
+    "pass6": 0,
+    "fourth_survivors": []
+  },
+  {
+    "m": 78,
+    "n": 15,
+    "k": 5,
+    "nontrivial_partitions": 175,
+    "pass2": 2,
+    "pass4": 0,
+    "pass6": 0,
+    "fourth_survivors": []
+  },
+  {
+    "m": 120,
+    "n": 36,
+    "k": 3,
+    "nontrivial_partitions": 17976,
+    "pass2": 161,
+    "pass4": 1,
+    "pass6": 0,
+    "fourth_survivors": [
+      {
+        "partition": [
+          9,
+          8,
+          5,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2
+        ],
+        "S2": "2244",
+        "S4": "115908",
+        "S6": "95867424/11"
+      }
+    ]
+  },
+  {
+    "m": 153,
+    "n": 19,
+    "k": 5,
+    "nontrivial_partitions": 489,
+    "pass2": 0,
+    "pass4": 0,
+    "pass6": 0,
+    "fourth_survivors": []
+  },
+  {
+    "m": 221,
+    "n": 17,
+    "k": 8,
+    "nontrivial_partitions": 296,
+    "pass2": 1,
+    "pass4": 0,
+    "pass6": 0,
+    "fourth_survivors": []
+  }
+]

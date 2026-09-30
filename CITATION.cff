@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying article and identify the version of this package used."
+title: "Seven Coincidences and Sixty Symmetries"
+type: software
+authors:
+  - family-names: "Lupercio"
+    given-names: "Ernesto"
+  - family-names: "Shaydurova"
+    given-names: "Evgeniya"
+version: "MI-S11-editorial"
+abstract: "Source manuscripts, figures, exact finite calculations, and computational data accompanying Seven Coincidences and Sixty Symmetries."
+keywords:
+  - binomial coefficients
+  - A5
+  - icosahedron
+  - representation theory
+  - Klein invariant
+  - modular forms

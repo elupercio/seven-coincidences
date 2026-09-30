@@ -1,0 +1,125 @@
+{
+  "full_spin_identities": [
+    {
+      "rank": 5,
+      "chirality": 0,
+      "dimension": 120,
+      "distinct_weights": 90
+    },
+    {
+      "rank": 5,
+      "chirality": 1,
+      "dimension": 120,
+      "distinct_weights": 90
+    },
+    {
+      "rank": 6,
+      "chirality": 0,
+      "dimension": 496,
+      "distinct_weights": 301
+    },
+    {
+      "rank": 6,
+      "chirality": 1,
+      "dimension": 496,
+      "distinct_weights": 301
+    }
+  ],
+  "SO4_tensor_branching": [
+    {
+      "chirality": 0,
+      "tensor_dimension": 16
+    },
+    {
+      "chirality": 1,
+      "tensor_dimension": 16
+    }
+  ],
+  "principal_spinor_weights": {
+    "-5": 1,
+    "-4": 1,
+    "-3": 1,
+    "-2": 2,
+    "-1": 2,
+    "0": 2,
+    "1": 2,
+    "2": 2,
+    "3": 1,
+    "4": 1,
+    "5": 1
+  },
+  "lift_winding_parities": {
+    "SO4_generator": 0,
+    "SO4_minus_identity_lift": 1,
+    "principal_SO3_generator": 0
+  },
+  "elliptic_points": [
+    {
+      "point": [
+        "27",
+        "139"
+      ],
+      "n": 10,
+      "m": 16,
+      "value": 120
+    },
+    {
+      "point": [
+        "63",
+        "499"
+      ],
+      "n": 22,
+      "m": 56,
+      "value": 1540
+    },
+    {
+      "point": [
+        "105",
+        "1075"
+      ],
+      "n": 36,
+      "m": 120,
+      "value": 7140
+    }
+  ],
+  "fifth_order_families": [
+    {
+      "shift": 0,
+      "symbolic_defect": "0",
+      "n_at_1": 15,
+      "m_at_1": 78
+    },
+    {
+      "shift": 4,
+      "symbolic_defect": "0",
+      "n_at_1": 19,
+      "m_at_1": 153
+    }
+  ],
+  "Lind_Singmaster_first_six": [
+    [
+      15,
+      5
+    ],
+    [
+      104,
+      39
+    ],
+    [
+      714,
+      272
+    ],
+    [
+      4895,
+      1869
+    ],
+    [
+      33552,
+      12815
+    ],
+    [
+      229970,
+      87840
+    ]
+  ]
+}

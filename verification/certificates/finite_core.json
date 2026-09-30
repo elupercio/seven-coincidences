@@ -1,0 +1,325 @@
+{
+  "construction": "even permutations, independently built cosets and edge action",
+  "class_sizes": [
+    1,
+    15,
+    20,
+    12,
+    12
+  ],
+  "module_characters": {
+    "1": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "A": [
+      4,
+      0,
+      1,
+      -1,
+      -1
+    ],
+    "B": [
+      5,
+      1,
+      -1,
+      0,
+      0
+    ],
+    "C": [
+      6,
+      -2,
+      0,
+      1,
+      1
+    ]
+  },
+  "rows": [
+    {
+      "value": 120,
+      "m": 16,
+      "n": 10,
+      "k": 3,
+      "U": [
+        0,
+        0,
+        2,
+        1
+      ],
+      "V": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "character": [
+        120,
+        -8,
+        3,
+        0,
+        0
+      ],
+      "group_elements_checked": 60
+    },
+    {
+      "value": 210,
+      "m": 21,
+      "n": 10,
+      "k": 4,
+      "U": [
+        3,
+        2,
+        2,
+        0
+      ],
+      "V": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "character": [
+        210,
+        2,
+        3,
+        0,
+        0
+      ],
+      "group_elements_checked": 60
+    },
+    {
+      "value": 1540,
+      "m": 56,
+      "n": 22,
+      "k": 3,
+      "U": [
+        4,
+        5,
+        4,
+        2
+      ],
+      "V": [
+        3,
+        2,
+        1,
+        1
+      ],
+      "character": [
+        1540,
+        -20,
+        10,
+        0,
+        0
+      ],
+      "group_elements_checked": 60
+    },
+    {
+      "value": 3003,
+      "m": 78,
+      "n": 15,
+      "k": 5,
+      "U": [
+        4,
+        4,
+        8,
+        3
+      ],
+      "V": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "character": [
+        3003,
+        -21,
+        0,
+        3,
+        3
+      ],
+      "group_elements_checked": 60
+    },
+    {
+      "value": 7140,
+      "m": 120,
+      "n": 36,
+      "k": 3,
+      "U": [
+        3,
+        9,
+        9,
+        6
+      ],
+      "V": [
+        1,
+        1,
+        5,
+        1
+      ],
+      "character": [
+        7140,
+        -60,
+        3,
+        0,
+        0
+      ],
+      "group_elements_checked": 60
+    },
+    {
+      "value": 11628,
+      "m": 153,
+      "n": 19,
+      "k": 5,
+      "U": [
+        6,
+        9,
+        15,
+        6
+      ],
+      "V": [
+        1,
+        0,
+        0,
+        3
+      ],
+      "character": [
+        11628,
+        -36,
+        0,
+        3,
+        3
+      ],
+      "group_elements_checked": 60
+    },
+    {
+      "value": 24310,
+      "m": 221,
+      "n": 17,
+      "k": 8,
+      "U": [
+        6,
+        16,
+        17,
+        11
+      ],
+      "V": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "character": [
+        24310,
+        -110,
+        10,
+        0,
+        0
+      ],
+      "group_elements_checked": 60
+    }
+  ],
+  "new_constructions": {
+    "1540": {
+      "U": "P+E+2R20",
+      "V": "2R5+Q"
+    },
+    "7140": {
+      "W": "1+3B",
+      "T": "A tensor B",
+      "U": "exterior square W",
+      "V": "W+T"
+    },
+    "24310": {
+      "U": "1+exterior cube Q",
+      "V": "R5+2P"
+    },
+    "group_elements_checked": 60
+  },
+  "earlier_valid_alternatives": [
+    {
+      "value": 1540,
+      "U": [
+        0,
+        2,
+        6,
+        3
+      ],
+      "V": [
+        4,
+        2,
+        2,
+        0
+      ],
+      "character": [
+        1540,
+        -28,
+        10,
+        0,
+        0
+      ],
+      "group_elements_checked": 60
+    },
+    {
+      "value": 24310,
+      "U": [
+        3,
+        13,
+        20,
+        11
+      ],
+      "V": [
+        2,
+        0,
+        3,
+        0
+      ],
+      "character": [
+        24310,
+        -110,
+        10,
+        0,
+        0
+      ],
+      "group_elements_checked": 60
+    }
+  ],
+  "geometric_identifications": "all 60 group elements checked",
+  "signed_orbits": {
+    "L": {
+      "types": {
+        "1/trivial": 39,
+        "C2/nontrivial": 14,
+        "C2/trivial": 6,
+        "C5/trivial": 1,
+        "D5/nontrivial": 1,
+        "V4/nontrivial": 3
+      },
+      "unsigned_sizes": {
+        "6": 1,
+        "12": 1,
+        "15": 3,
+        "30": 20,
+        "60": 39
+      }
+    },
+    "R": {
+      "types": {
+        "1/trivial": 40,
+        "C2/nontrivial": 13,
+        "C2/trivial": 5,
+        "D5/nontrivial": 2,
+        "D5/trivial": 1,
+        "V4/nontrivial": 3
+      },
+      "unsigned_sizes": {
+        "6": 3,
+        "15": 3,
+        "30": 18,
+        "60": 40
+      }
+    }
+  }
+}
